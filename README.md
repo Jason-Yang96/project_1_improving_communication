@@ -6,7 +6,7 @@ starting project to improve the commuication between instructor, students and pa
    - I have felt for a long time since 2015 inconvenience about the communication between instructor, students and parents
    - In the process of letting students know the assignments, notifying again and sending a report of the class done at the day
    - I don't have any plan to make this service public yet.
-   - *Just to improve the communication between us*
+   - **Just to improve the communication between us**
 2. Ask developers what I have to do for building the service
    - Umm, lots of things which mostly I don't understand.
      - But I think "We don't lack resource, but intention and action"
