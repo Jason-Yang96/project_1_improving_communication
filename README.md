@@ -1,8 +1,7 @@
 # Project_1_improving_communication
 starting project to improve the commuication between instructor, students and parents
 ### 20230811_day1
-**Q**
-**What did I do?**
+#### What did I do?
 1. Think about the problem, which means why I have to start this project
    - I have felt for a long time since 2015 inconvenience about the communication between instructor, students and parents
    - In the process of letting students know the assignments, notifying again and sending a report of the class done at the day
