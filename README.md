@@ -49,4 +49,4 @@ Starting project to improve the commuication between instructor, students and pa
 3. What will you do to solve it in this way?
    	1) Technical thing(actually asked other developers "I'm strongly wanting to make something. But I don't know how. So let me know.)
    	   	- This is the answer they gave me(I just organize it with shit hand writing; not good at it)
-   	   	   ![answer](img/developing_structure.jpg)
+   	   	   ![answer](img/developing_structure.jpg){: width="50%" height="50%"}
