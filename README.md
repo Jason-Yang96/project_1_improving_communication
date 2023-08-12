@@ -46,7 +46,19 @@ Starting project to improve the commuication between instructor, students and pa
 	4) Each parents could see only their students' reports on the list form
 		- Q. Should Parents and Students share some key to make a pair? Is it necessary? Is it possible? 
     	- A. One side of parents don't need to see other sides' report lise. So yes it is necessary. But I don't know how to make it available. Find it
-3. What will you do to solve it in this way?
+3. What will you do to solve it in this way?[Plan that will be improved to to specific continuously]
    	1) Technical thing(actually asked other developers "I'm strongly wanting to make something. But I don't know how. So let me know.)
    	   	- This is the answer they gave me(I just organize it with shit hand writing; not good at it)
    	   	   <img src="img/developing_structure.jpg" width="50%" height="50%"/>
+		- Make website(not app) 
+			- Simple UI
+				- Okay to benchmark other web or app
+				- No animation. Function first.
+	2) Studying order
+		- Javacript(web cloning class)
+		- Node.js
+		- Nest.js
+		- REST api
+		- RDBMS -> mysql
+			- How to setting DB schema and authority
+		- Publishing
