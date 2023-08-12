@@ -62,3 +62,9 @@ Starting project to improve the commuication between instructor, students and pa
 		- RDBMS -> mysql
 			- How to setting DB schema and authority
 		- Publishing
+	3) Duration
+		- 60 days(until 2023-10-11)
+			- The reason why?
+				- I want to experience this whole cycle as soon as possible
+				- Additionally, hope to find my preference to development
+***
