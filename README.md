@@ -48,4 +48,5 @@ Starting project to improve the commuication between instructor, students and pa
     	- A. One side of parents don't need to see other sides' report lise. So yes it is necessary. But I don't know how to make it available. Find it
 3. What will you do to solve it in this way?
    	1) Technical thing(actually asked other developers "I'm strongly wanting to make something. But I don't know how. So let me know.)
-   	   	- This is the ![answer](img/developing_structure.jpg)
+   	   	- This is the answer they gave me(I just organize it with shit hand writing; not good at it)
+   	   	   ![answer](img/developing_structure.jpg)
