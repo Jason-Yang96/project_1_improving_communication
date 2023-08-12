@@ -1,4 +1,4 @@
-# Project_1_improving_communication
+# Project_A_improving_communication
 starting project to improve the commuication between instructor, students and parents
 ### 20230811_day1
 #### What did I do?
